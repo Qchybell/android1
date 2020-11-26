@@ -1,0 +1,99 @@
+1
+1- 10001110 = 8E
+2- CEF = 110011101111
+3- 160 = 1110000
+3- 248 = 11111000
+------------------------------
+2-
+la mémoire vive sert à stocker les informations nécessaires au bon fonctionnement du processeur central de l'ordinateur.
+------------------------------
+3-
+Microsoft Windows parce que la liste contient les
+composants matériels
+------------------------------
+4-
+on peut installer windows 7 soit par clé USB soit
+par réseau avec le serveur wds
+--------
+installation personnalisée
+mise a niveau
+------------------------------
+5-
+NTFS est caractérisé par la compression des fichiers,
+le cryptage et la gestion des droits d'accès aux 
+fichiers et dossiers
+------
+caractéristique NTFS : 
+   - Sécurité des fichiers et des répertoires
+   - Compression des données
+   - Chiffrement des fichiers
+------------------------------
+6-
+ a : 2000:CAF:A:1000:D000:DD00:0:FF00
+   b : FE80:0:D000::D:DA
+------------------------------
+
+7-
+adresse multicast et unicast
+------------------------------
+8-
+192.186.1.2
+172.32.10.10
+------------------------------
+9-
+http - 80
+dns - 53 
+ldap - 389
+ftp - 21
+------------------------------
+10-
+-réassemblage selon l'ordre d'envoi 
+-etablissement de connexion avant l'envoi des données.
+------------------------------
+12-
+vlan 12 : Le but principal est de réduire le traffic broadcast et multicast sur un réseau local, car ils ne passent pas les routeurs, les vlans sont des sortes de switchs séparés dans un switch physique, comme si on le découpait en morceaux.
+
+12 : les vlans servent à sécuriser les accès réseau, optimiser la bande passante et réduire les domaines de diffusion
+------------------------------
+13-
+stp: a été créé pour prévenir la formation de boucles sur les réseaux de niveau 2 lors des 
+interconnections multiples mises en place entre commutateurs pour assurer la redondance du 
+réseau
+---------
+stp est un protocole qui permet d'éviter les boucles réseau et en même
+temps garantir la redondance des liens entre les switchs
+------------------------------
+14- 
+- protocole HSRP
+- protocole VRRP
+------------------------------
+15- 
+- La plupart des tâches de configuration peuvent être réalisées sur l'interface EtherChannel plutôt que sur chaque port, ce qui assure la cohérence de la configuration sur toutes les liaisons.
+- Un EtherChannel repose sur les ports de commutation existants. Il n'est pas nécessaire de mettre à niveau la liaison vers une connexion plus rapide et plus coûteuse pour avoir davantage de bande passante.
+------------------------------
+16-
+- oui
+- oui
+- non
+- non
+- non
+-------------------------------
+17-
+- Réduction de la taille des tables de routage
+- Réduction de la surcharge liée aux mises à jour d'état de liens
+- Réduction de la fréquence des calculs SPF
+------------------------------
+18- le DR est le routeur principal, on peut le voir comme un porte-parole
+------------------------------
+19-
+- routeur dont la priorité d'interface est la plus élevée
+------------------------------
+20-
+Internal Router (IR)
+Backbone Router (BR)
+Area Border Router (ABR)
+Autonomous System Boundary Router (ASBR)
+------------------------------
+35 - a
+- la sécurité
+- changer votre adresse IP.
